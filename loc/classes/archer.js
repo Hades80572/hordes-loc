@@ -15,7 +15,8 @@ export default {
     zh: '弓箭手',
     hu: 'Vadász',
     pl: 'Łucznik',
-    bg: 'Стрелец'
+    bg: 'Стрелец',
+    bn: 'তীরন্দাজ'
   },
 
   // Class description, visible during character creation
